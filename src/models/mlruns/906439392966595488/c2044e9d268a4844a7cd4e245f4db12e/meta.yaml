@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/T-Gamer/Documents/GitHub/palestra-case-2-MLClassificador/src/models/mlruns/906439392966595488/c2044e9d268a4844a7cd4e245f4db12e/artifacts
+end_time: 1749558834177
+entry_point_name: ''
+experiment_id: '906439392966595488'
+lifecycle_stage: active
+run_id: c2044e9d268a4844a7cd4e245f4db12e
+run_name: RandomForest_Training
+run_uuid: c2044e9d268a4844a7cd4e245f4db12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749558816650
+status: 3
+tags: []
+user_id: T-Gamer

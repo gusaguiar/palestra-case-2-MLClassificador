@@ -1,0 +1,12 @@
+{
+  "process_temperature": 0.035080794245004654,
+  "air_temperature": 0.07118706405162811,
+  "temp_difference": 0.08150256425142288,
+  "tool_wear": 0.08365851640701294,
+  "estimated_power": 0.08754100650548935,
+  "wear_per_operation": 0.09981188923120499,
+  "thermal_efficiency": 0.10279224812984467,
+  "rotational_speed": 0.1255885660648346,
+  "torque": 0.12738649547100067,
+  "mechanical_stress": 0.18545088171958923
+}

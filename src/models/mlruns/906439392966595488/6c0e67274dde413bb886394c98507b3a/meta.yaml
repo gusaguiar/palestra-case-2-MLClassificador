@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/T-Gamer/Documents/GitHub/palestra-case-2-MLClassificador/src/models/mlruns/906439392966595488/6c0e67274dde413bb886394c98507b3a/artifacts
+end_time: 1749558845197
+entry_point_name: ''
+experiment_id: '906439392966595488'
+lifecycle_stage: active
+run_id: 6c0e67274dde413bb886394c98507b3a
+run_name: SVM_Training
+run_uuid: 6c0e67274dde413bb886394c98507b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749558840222
+status: 3
+tags: []
+user_id: T-Gamer

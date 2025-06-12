@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/T-Gamer/Documents/GitHub/palestra-case-2-MLClassificador/src/models/mlruns/906439392966595488/8546d933deaa49ca95c05b480f50abfd/artifacts
+end_time: 1749558839812
+entry_point_name: ''
+experiment_id: '906439392966595488'
+lifecycle_stage: active
+run_id: 8546d933deaa49ca95c05b480f50abfd
+run_name: XGBoost_Training
+run_uuid: 8546d933deaa49ca95c05b480f50abfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749558834540
+status: 3
+tags: []
+user_id: T-Gamer

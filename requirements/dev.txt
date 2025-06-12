@@ -1,0 +1,14 @@
+# Include all dependencies
+-r airflow.txt
+-r api.txt
+
+# Development tools
+black
+flake8
+isort
+pre-commit
+pytest-asyncio
+
+# Additional testing tools
+coverage
+pytest-mock

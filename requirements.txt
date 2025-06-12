@@ -1,0 +1,55 @@
+# Core ML Libraries
+numpy==1.26.4
+pandas
+scikit-learn
+tensorflow
+xgboost
+
+# Data Processing
+scipy
+joblib
+
+# Feature Engineering
+PyWavelets
+
+# MLOps
+mlflow==3.0.0
+apache-airflow
+
+# API Framework
+fastapi
+uvicorn
+pydantic
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# Monitoring & Logging
+prometheus-client
+structlog
+
+# Testing
+pytest
+pytest-cov
+pytest-asyncio
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities
+python-dotenv
+click
+tqdm
+python-multipart
+
+# Development
+black
+flake8
+isort
+pre-commit
+
+# Docker support
+gunicorn 

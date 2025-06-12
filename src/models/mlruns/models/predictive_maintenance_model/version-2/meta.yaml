@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749559669635
+current_stage: Staging
+description: null
+last_updated_timestamp: 1749559669665
+name: predictive_maintenance_model
+run_id: dfb6d8cb5ac64d1d98d621fbf0f5f6bd
+run_link: null
+source: file:C:/Users/T-Gamer/Documents/GitHub/palestra-case-2-MLClassificador/src/models/../../src/models/mlruns/960816347499315434/dfb6d8cb5ac64d1d98d621fbf0f5f6bd/artifacts/xgboost
+status: READY
+status_message: null
+storage_location: file:C:/Users/T-Gamer/Documents/GitHub/palestra-case-2-MLClassificador/src/models/../../src/models/mlruns/960816347499315434/dfb6d8cb5ac64d1d98d621fbf0f5f6bd/artifacts/xgboost
+user_id: null
+version: 2

@@ -1,0 +1,19 @@
+# Core dependencies shared across all services
+numpy==1.26.4
+pandas
+scipy
+joblib
+python-dotenv
+tqdm
+click
+
+# Database
+psycopg2-binary
+sqlalchemy
+
+# Logging
+structlog
+
+# Testing
+pytest
+pytest-cov

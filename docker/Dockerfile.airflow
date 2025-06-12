@@ -1,0 +1,27 @@
+FROM apache/airflow:2.7.0-python3.9
+
+USER root
+
+# Instala dependências do sistema
+RUN apt-get update && apt-get install -y \
+    gcc \
+    g++ \
+    netcat-traditional \
+    && rm -rf /var/lib/apt/lists/*
+
+USER airflow
+
+# Copia requirements
+COPY requirements.txt /tmp/requirements.txt
+
+# Instala dependências Python
+RUN pip install --no-cache-dir -r /tmp/requirements.txt
+
+# Copia script de inicialização
+COPY docker/airflow-init.sh /usr/local/bin/airflow-init.sh
+USER root
+RUN chmod +x /usr/local/bin/airflow-init.sh
+USER airflow
+
+# Define entrypoint
+ENTRYPOINT ["/usr/local/bin/airflow-init.sh"] 

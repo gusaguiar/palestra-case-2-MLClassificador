@@ -1,0 +1,17 @@
+# Include base dependencies
+-r base.txt
+
+# API Framework
+fastapi
+uvicorn
+pydantic
+python-multipart
+gunicorn
+
+# ML Libraries for inference
+scikit-learn
+xgboost
+mlflow
+
+# Basic visualization
+matplotlib

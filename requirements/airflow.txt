@@ -1,0 +1,24 @@
+# Include base dependencies
+-r base.txt
+
+# Airflow specific
+apache-airflow
+
+# ML Libraries for training
+scikit-learn
+xgboost
+tensorflow
+
+# Feature Engineering
+PyWavelets
+
+# MLOps
+mlflow
+
+# Data Visualization for reports
+matplotlib
+seaborn
+plotly
+
+# Monitoring
+prometheus-client

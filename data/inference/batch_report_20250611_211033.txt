@@ -1,0 +1,29 @@
+
+    🔮 RELATÓRIO DE INFERÊNCIA EM LOTE
+    
+    Data/Hora: 2025-06-11 21:10:33
+    
+    🤖 MODELO UTILIZADO:
+    - Nome: random_forest_predictive_maintenance
+    - Versão: local_file
+    - Stage: Production
+    
+    📊 DADOS PROCESSADOS:
+    - Amostras de entrada: 10
+    - Features extraídas: 10
+    - Amostras processadas: 10
+    
+    🎯 RESULTADOS DA INFERÊNCIA:
+    - Total de predições: 10
+    - Classes únicas: 1
+    - Confiança média: 0.965
+    - Predições de baixa confiança: 0
+    
+    📈 DISTRIBUIÇÃO DAS CLASSES:
+        - Classe 0: 10 (100.0%)
+
+    📁 ARQUIVO DE SAÍDA:
+    - /opt/airflow/data/inference/batch_predictions_20250611_211032.csv
+    
+    ⚠️  ALERTAS:
+        - Todas as predições pertencem à mesma classe

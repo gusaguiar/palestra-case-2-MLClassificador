@@ -1,0 +1,12 @@
+# Include base dependencies  
+-r base.txt
+
+# MLflow specific
+mlflow==2.22.1
+boto3
+
+# ML Libraries (may be needed for model loading)
+scikit-learn
+xgboost
+numpy
+matplotlib
